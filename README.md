@@ -1,16 +1,11 @@
 
 <h1 align="left">Hi 👋, I'm Sumit Raj Neupane</h1>
-<h3 align="left">Machine Learning Enthusiast</h3>
+
 <img align="right" alt="programmer" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsum-it&label=Profile%20views&color=0e75b6&style=flat" alt="nsum-it" /> </p>
 
 
-- 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **sumitneupane4@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsum-it" alt="nsum-it" /></a> </p>
 
