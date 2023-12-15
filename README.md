@@ -4,6 +4,11 @@
 <!-- <img align="center" src = "./gif/keyboard.gif" style="max-width:100%;" class="center" /> -->
 <div align="center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
 <br/>
+- 🔭 I’m currently working on **Cool Stuffs**
+
+- 🌱 I’m currently learning **Databases**
+
+- 💬 Ask me about **Javascript, C# and Linux**
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nSum-iT" alt="nSum-iT" /></a> </p>
 
 <h1 align="center">🚀 Tools I Use</h1>
