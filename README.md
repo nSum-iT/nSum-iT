@@ -1,18 +1,15 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Sumit Raj Neupane <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">Python/Django Developer 💻</h3>
-<!-- <img align="center" src = "./gif/keyboard.gif" style="max-width:100%;" class="center" /> -->
-<div align="center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
-<br/>
 - 🔭 I’m currently working on **Cool Stuffs**
 
 - 🌱 I’m currently learning **Databases**
 
 - 💬 Ask me about **Javascript, C# and Linux**
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nSum-iT" alt="nSum-iT" /></a> </p>
-
+<!-- <img align="center" src = "./gif/keyboard.gif" style="max-width:100%;" class="center" /> -->
+<div align="center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
+<br/>
 <h1 align="center">🚀 Tools I Use</h1>
-
 <p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
