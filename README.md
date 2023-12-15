@@ -1,11 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Sumit Raj Neupane <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">Python/Django Developer 💻</h3>
-- 🔭 I’m currently working on **Cool Stuffs**
 
-- 🌱 I’m currently learning **Databases**
-
-- 💬 Ask me about **Javascript, C# and Linux**
 <!-- <img align="center" src = "./gif/keyboard.gif" style="max-width:100%;" class="center" /> -->
 <div align="center"><img src = "./gif/keyboard.gif" style="max-width:100%;" /></div>
 <br/>
